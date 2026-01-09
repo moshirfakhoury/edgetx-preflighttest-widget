@@ -25,3 +25,14 @@ Features
 * User-Friendly & Flexible
     Works entirely with logical switches, preserving user flexibility.
     Advanced features are opt-in only, ensuring safe defaults for all users.
+
+<img width="517" height="288" alt="image" src="https://github.com/user-attachments/assets/b58028d2-9669-42b6-af71-2fb19dd5197b" />
+
+<img width="513" height="292" alt="image" src="https://github.com/user-attachments/assets/a2a776a0-b8c2-4f7e-982e-90f56e6e2377" />
+
+<img width="513" height="297" alt="image" src="https://github.com/user-attachments/assets/27f97378-cd40-4371-8d72-2b997c20340f" />
+
+<img width="502" height="297" alt="image" src="https://github.com/user-attachments/assets/92e38805-5afa-41b3-bd47-1eaacf3f8716" />
+
+
+
