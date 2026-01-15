@@ -1,9 +1,11 @@
 Checkout my other widgets:
 
 https://github.com/moshirfakhoury/edgetx-postflight-widget
+
 https://github.com/moshirfakhoury/edgetx-flightdash-widget
 
 Widget Overview
+
 This widget serves as a preflight check, providing a quick visual overview of your model’s status. It highlights issues such as low battery or weak signal between the transmitter and model. The widget evaluates up to five logical switches, allowing you to define your own preflight rules by assigning logical switches in the widget parameters.
 
 How the Widget Works
