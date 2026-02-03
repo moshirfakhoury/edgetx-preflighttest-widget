@@ -64,6 +64,14 @@ Widget Limitations
 - The background color is set to black by default to ensure visibility regardless of transmitter theme.
 - To change this, edit the Lua script and comment out the following line: lcd.drawFilledRectangle(z.x, z.y, z.w, z.h, COLOR_BLACK)
 
+Installation
+- Dowload the ZIP file
+- Extract content from ZIP file
+- Copy only the last folder called 'preflightTest' with the main.lua and README.txt
+- Paste the folder into your SDCard/WIDGETS folder
+- If you want the widget to play the sound file provided, copy and pasted it into SDCard/SOUNDS/en/SYSTEM folder
+
+
 <img width="517" height="288" alt="image" src="https://github.com/user-attachments/assets/b58028d2-9669-42b6-af71-2fb19dd5197b" />
 
 <img width="513" height="292" alt="image" src="https://github.com/user-attachments/assets/a2a776a0-b8c2-4f7e-982e-90f56e6e2377" />
