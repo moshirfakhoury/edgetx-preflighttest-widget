@@ -65,11 +65,12 @@ Widget Limitations
 - To change this, edit the Lua script and comment out the following line: lcd.drawFilledRectangle(z.x, z.y, z.w, z.h, COLOR_BLACK)
 
 Installation
-- Dowload the ZIP file
-- Extract content from ZIP file
-- Copy only the last folder called 'preflightTest' with the main.lua and README.txt
-- Paste the folder into your SDCard/WIDGETS folder
-- If you want the widget to play the sound file provided, copy and pasted it into SDCard/SOUNDS/en/SYSTEM folder
+- Download the ZIP file
+- Extract the contents of the ZIP file
+- Locate the last folder named preflightTest (it contains main.lua and README.txt)
+- Copy only the preflightTest folder
+- Paste it into your SDCard/WIDGETS directory
+- (Optional) To enable the included sound, copy the sound file into SDCard/SOUNDS/en/SYSTEM
 
 
 <img width="517" height="288" alt="image" src="https://github.com/user-attachments/assets/b58028d2-9669-42b6-af71-2fb19dd5197b" />
