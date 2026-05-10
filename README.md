@@ -31,7 +31,8 @@ GV9 – Previous Failure Indicator
 - The widget can optionally track previous failures per row using Global Variable 9 (GV9).
 - GV9 uses Flight Modes FM4–FM8, corresponding to widget rows 1–5.
 - This feature is disabled by default.
-- To enable failure history tracking, set: GV9 FM0 = 1024
+- To enable failure history tracking, set: GV9 FM0 = 1024 and enable FM4-FM8
+  
 When enabled:
 - A row that previously failed but now passes will display “Previous Failure” in flashing red.
 - This indicator remains visible for a short time (default: ~9 seconds) before automatically clearing.
@@ -42,7 +43,8 @@ GV8 – Advisory (Non-Critical) Checks
 - The widget can optionally treat certain checks as Advisory instead of failures using Global Variable 8 (GV8).
 - GV8 uses Flight Modes FM4–FM8, corresponding to widget rows 1–5.
 - This feature is disabled by default.
-- To enable advisory mode, set: GV8 FM0 = 1024
+- To enable advisory mode, set: GV8 FM0 = 1024 and enable FM4-FM8
+  
 When enabled:
 - If a logical switch is active and the corresponding GV8 FMx value is 1024, the row will display “ADVISORY” in yellow.
 - Advisory rows do not cause a failure, do not trigger sounds, and do not change the final status.
